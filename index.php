@@ -1,6 +1,8 @@
 <?php
 
-echo("<hl> Hola Mundo </hl>");
-echo("<h2> utn fra </h2>");
+echo("<hl style=`color: red:´> Hola Mundo como estan? </hl>");
+
+echo("<h2 style=`color: orange´;> utn fra </h2>");
+
 
 ?>
